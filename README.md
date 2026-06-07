@@ -1,1 +1,11 @@
-# Python-_list-
+# Python-_list
+├── create_list.py
+├── append_item.py
+├── largest_number.py
+├── smallest_number.py
+├── sum_list.py
+├── average_list.py
+├── search_element.py
+├── sort_list.py
+├── reverse_list.py
+└── remove_duplicates.py
